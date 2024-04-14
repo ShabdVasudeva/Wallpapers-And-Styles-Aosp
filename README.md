@@ -11,7 +11,7 @@ This app is based on Aosp BnanaDroid and NothingOS design it allows users to exp
 - New Features has been added named Device Theme and Status Droid
 
 ## Screenshots
-visit [here](https://t.me/AndroidPortWorld) to get Screenshots.
+[1](https://github.com/ShabdVasudeva/Wallpapers-And-Styles-Aosp/blob/main/Screenshot_2024-04-14-20-47-57-79_92ee9b789777c8ecfca9b0cd0cba4f18.jpg)
 
 ## How to Use
 1. **Enable Dark And Light Theme:** now you can turn on and off dark mode directly through our app.
