@@ -20,7 +20,7 @@ visit [here](https://t.me/AndroidPortWorld) to get Screenshots.
 4. **Status Droid:** Do alot of status bar customisations.
 
 ## Installation
-1. download the apk from [here](https://www.pling.com/p/2033463/).
+1. download the apk from [here]([https://www.pling.com/p/2121911/]).
 2. simply install the apk.
 3. Now install Apatch or use any other system level terminal.
 4. enter this command if you have non-rooted device: pm grant org.code.aurora.wallpapersandstyles android.permission.WRITE_SECURE_SETTINGS
